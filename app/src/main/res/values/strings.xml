@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">El-Padre Restaurante</string>
+    <string name="go_to_2nd_activity">Go TO 2nd activity</string>
+    <string name="profile">Profile</string>
+    <string name="exit">Exit</string>
+    <string name="button">Approve</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_button">Login</string>
+    <string name="password_text">Password</string>
+    <string name="username_text">Username</string>
+    <string name="register">Register</string>
+    <string name="register_chef">Register Chef</string>
+    <string name="register_delivery">Register Delivery</string>
+    <string name="login">Login</string>
+    <string name="password_max_characters">Password &gt; 20 characters not allowed.</string>
+    <string name="password_min_characters">Password &lt; 6 characters not allowed.</string>
+    <string name="username_invalid">Username should only be letters or digits</string>
+    <string name="username_max_characters">Username &gt; 15 characters not allowed.</string>
+    <string name="username_min_characters">Username &lt; 3 characters not allowed.</string>
+    <string name="logout_button">Logout</string>
+    <string name="username_duplicate">Username is already in use.</string>
+    <string name="the_previous_orders">The previous orders</string>
+    <string name="about_us">About us</string>
+    <string name="description">The best Italian restaurants always serve the best Italian food and unrivaled quality. These restaurants are proud to serve fresh food prepared from freshly brought ingredients. You will never taste anything that has been sitting in the freezer for a considerable amount of time.</string>
+    <string name="loginB">Login</string>
+    <string name="registerB">Register</string>
+    <string name="search">Search</string>
+    <string name="home_page">Home</string>
+    <string name="description_item">Description</string>
+    <string name="order">Order</string>
+
+</resources>
